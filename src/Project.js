@@ -3,9 +3,9 @@ import React from 'react';
 function Project() {
   return(
     <div>
-      <img src="#" width="300" height="200" alt="" />
+      <img src="/images/pikachu.png" width="300" height="300" alt="" />
       <h3> Title of Project</h3>
-      <a href="#">Link to a Project</a>
+      <a href="/">Link to a Project</a>
     </div>
   )
 }
