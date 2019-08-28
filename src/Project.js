@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Project() {
+function Project({ image, title, link }) {
   return(
     <div>
-      <img src="/images/pikachu.png" width="300" height="300" alt="" />
-      <h3> Title of Project</h3>
-      <a href="/">Link to a Project</a>
+      <img src={image} width="300" height="300" alt="" />
+      <h3> {title}</h3>
+      <a href={link}>Link to project</a>
     </div>
   )
 }
