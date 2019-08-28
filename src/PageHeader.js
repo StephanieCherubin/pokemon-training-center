@@ -3,8 +3,10 @@ import './PageHeader.css';
 
 function PageHeader() {
   return (
-    <div className="App">
-      <h1>Pokemon Training Center</h1>
+    <div className="PageHeader">
+      <header>
+        <h1>Pokemon Training Center</h1>
+      </header>
     </div>
   )
 }

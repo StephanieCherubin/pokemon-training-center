@@ -5,7 +5,7 @@ function Project({ image, title, link }) {
     <div>
       <img src={image} width="300" height="300" alt="" />
       <h3> {title}</h3>
-      <a href={link}>Link to project</a>
+      <a href={link}>Link to pokemon</a>
     </div>
   )
 }
