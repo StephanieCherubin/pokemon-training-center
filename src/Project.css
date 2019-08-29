@@ -1,0 +1,14 @@
+.pokemon {
+  margin-top: 50px;
+}
+
+.evolution {
+  background-color:rgb(52, 140, 140);
+  margin: 4px 2px;
+  display: inline-block;
+  padding: 20px;
+  border-radius: 15px ;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
