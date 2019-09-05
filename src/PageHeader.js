@@ -5,7 +5,7 @@ function PageHeader() {
   return (
     <div className="PageHeader">
       <header>
-        <h1>Complete Pokemon Pokedex</h1>
+        <h1>Complete Pokémon POKEDEX</h1>
       </header>
     </div>
   )

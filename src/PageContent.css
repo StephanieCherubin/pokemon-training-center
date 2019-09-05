@@ -3,5 +3,7 @@
   margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 2em;
+  grid-gap: 6em;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }

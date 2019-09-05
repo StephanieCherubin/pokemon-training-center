@@ -1,9 +1,6 @@
-.pokemon {
-  margin-top: 50px;
-}
-
 .evolution {
   background-color:rgb(52, 140, 140);
+  background: linear-gradient(90deg, rgba(23,88,88,1) 0%, rgba(59,149,141,1) 35%, rgba(49,62,65,1) 100%);
   margin: 4px 2px;
   display: inline-block;
   padding: 20px;
