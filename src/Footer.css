@@ -1,0 +1,9 @@
+.Footer {
+  width: 969px;
+  display: flex;
+  justify-content: center;
+  padding: 14em;
+  background-color: rgb(19, 99, 99);
+  background-image: linear-gradient(white, rgb(19, 99, 99));
+  color: #fff;
+}
