@@ -27,11 +27,9 @@
 
 - For more on these wonderful badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
-***INSERT ANOTHER GRAPHIC HERE***
 
-[![Pokemon Gif](https://giphy.com/gifs/vsyKKf1t22nmw/html5)]()
+[![Pokemon Gif](https://media.giphy.com/media/vsyKKf1t22nmw/giphy.gif)]()
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
 ---
 
 ## Table of Contents (Optional)
@@ -45,21 +43,6 @@
 - [Support](#support)
 - [License](#license)
 
-
----
-
-## Example (Optional)
-
-```javascript
-// code away!
-
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
-```
 
 ---
 
