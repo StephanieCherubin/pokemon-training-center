@@ -37,7 +37,6 @@ You will also see any lint errors in the console.
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+- **[MIT license](https://github.com/StephanieCherubin/pokemon-training-center/blob/master/LICENSE)**
 
 [![Pokemon Gif](https://media.giphy.com/media/vsyKKf1t22nmw/giphy.gif)]()
