@@ -1,4 +1,6 @@
 ![Screen Shot 2020-04-04 at 4 55 39 PM](https://user-images.githubusercontent.com/26418542/78461273-8b731080-7695-11ea-80af-95ac545d5562.png)
+# ... So many pokemon! ...
+![Screen Shot 2020-04-04 at 4 56 01 PM](https://user-images.githubusercontent.com/26418542/78461414-a85c1380-7696-11ea-9d9a-1fa4cedb7b66.png)
 
 # Pokemon Training Center
 
