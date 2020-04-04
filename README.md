@@ -1,14 +1,14 @@
+# Pokemon Training Center
+
 ![Screen Shot 2020-04-04 at 4 55 39 PM](https://user-images.githubusercontent.com/26418542/78461273-8b731080-7695-11ea-80af-95ac545d5562.png)
-# ... So many pokemon! ...
+
+### ... So many pokemon! ...
+
 ![Screen Shot 2020-04-04 at 4 56 01 PM](https://user-images.githubusercontent.com/26418542/78461414-a85c1380-7696-11ea-9d9a-1fa4cedb7b66.png)
 
 # Pokemon Training Center
 
-> Subtitle or Short Description Goes Here
-
-> ideally one sentence
-
-> include terms/tags that can be searched
+> Pokemon Stats for real Pokemon trainers. Check out the Evolution information for all your pokemon. 
 
 **Badges will go here**
 
@@ -29,10 +29,9 @@
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+[![Pokemon Gif](https://giphy.com/gifs/vsyKKf1t22nmw/html5)]()
 
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
+[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
 ---
 
 ## Table of Contents (Optional)
