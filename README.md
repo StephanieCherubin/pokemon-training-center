@@ -18,7 +18,6 @@ Pokemon Stats for real Pokemon trainers. Check out the Evolution information for
 ## Table of Contents
 
 - [Installation](#installation)
-- [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 ---
@@ -31,13 +30,6 @@ Pokemon Stats for real Pokemon trainers. Check out the Evolution information for
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/StephanieCherubin/pokemon-training-center`
-
----
-
-## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
 ---
 
 ## Contributing
@@ -71,13 +63,11 @@ You will also see any lint errors in the console.
 
 ---
 
-## Donations (Optional)
+## Donations
 
 - You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
 
 [![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
-
-
 ---
 
 ## License
