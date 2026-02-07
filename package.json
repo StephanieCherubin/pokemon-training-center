@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "browserslist": "^4.16.5",
-    "eslint": "^7.32.0",
+    "eslint": "^9.26.0",
     "is-svg": "^4.4.0",
     "kind-of": "^6.0.3",
     "postcss": "^8.4.31",
